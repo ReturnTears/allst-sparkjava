@@ -9,5 +9,4 @@ public class AllstSparkjavaApplication {
     public static void main(String[] args) {
         SpringApplication.run(AllstSparkjavaApplication.class, args);
     }
-
 }

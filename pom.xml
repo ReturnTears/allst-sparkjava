@@ -33,11 +33,11 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <!-- 添加 XJar 依赖 -->
-        <dependency>
+        <!--<dependency>
             <groupId>com.github.core-lib</groupId>
             <artifactId>xjar</artifactId>
-            <version>v2.0.5</version>
-        </dependency>
+            <version>4.0.2</version>
+        </dependency>-->
         <dependency>
             <groupId>com.sparkjava</groupId>
             <artifactId>spark-core</artifactId>
